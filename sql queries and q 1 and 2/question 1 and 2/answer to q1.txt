@@ -1,4 +1,0 @@
-1. The session of each user login may be less.Thereby, same user may be using the otp login service multiple times.
-
-2. There may be errors in the code where it is not properly keeping count of the number of OTPs sent. May be the parameter is increasing multiple
-times rather than consecutively increasing. 
