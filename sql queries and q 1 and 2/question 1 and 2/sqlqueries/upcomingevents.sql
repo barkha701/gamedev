@@ -1,0 +1,1 @@
+select * from eventmanagement where Eventstarttime > SYSDATETIME();
